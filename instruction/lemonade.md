@@ -20,3 +20,6 @@
 4. Open command prompt & sideload rom using command ```adb sideload <rom_filename>.zip```
 5. Reboot
 
+**Update recovery:**
+- Update recovery package if facing issue to adb sideload
+- Download from [**HERE**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonade/Utility/) and extract recovery package then execute __recovery.bat__ or __recovery.sh__ as per your computer OS 
