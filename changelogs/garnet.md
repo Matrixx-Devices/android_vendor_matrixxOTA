@@ -1,3 +1,7 @@
+# Changelog 18 December 2024:
+
+- Fix DRM issue (Netflix not launching)
+
 # Changelog 14 December 2024:
 
 - Synced sources 10.9.1->10.10.0
