@@ -1,3 +1,9 @@
+# 29-DEC-2024:
+- Synced with latest source v10.10.0
+- Comes with latest positron kernel with KSU.
+- Update blobs from V816.0.12.0.TKCMIXM
+- Fixed Adaptive Refresh Rate.
+  
 # 04-NOV-2024:
 - Synced with latest source v10.9.1
 - Update blobs from V816.0.9.0.TKCMIXM
