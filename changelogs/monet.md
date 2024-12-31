@@ -1,3 +1,47 @@
+## 17-December-2024
+
+- Build missing Wi-Fi Display lib
+- Build xiaomi-telephony-stub
+- Disable Smart Pixels on UDFPS
+- Enable DeviceAsWebcam HQ mode by default
+- Enable media codec2
+- Fix carrier text padding in lock screen
+- Fixed power off charging
+- Kernel rebased and fixed memory leaks
+- KernelSU: v1.0.2-legacy
+- Let the fingerprint HAL access the RTC device
+- Switch to QTI Memtrack AIDL HAL
+- Migrate to QTI USB Gadget 1.2 HIDL
+- Move usage of USB MTP/PTP functionality with USB F_FS driver
+- Setup DeviceAsWebcam
+
+## 16-July-2024
+
+- Disable Smart Pixels on UDFPS
+- Fixed audio issue when screen is off
+- Fixed camera not recording video after the device is on for a while
+- Fixed touch issue
+- Merge latest android-4.19-stable (4.19.317) into kernel
+- Merge tag 'LA.UM.9.12.r1-18400-SMxx50.QSSI14.0' into `audio-kernel`, `display-drivers`, `fw-api`, `qcacld-3.0`, `qca-wifi-host-cmn`, `video-driver`
+- All changes from Yuragi Kernel r2 included
+
+## 15-June-2024
+
+- Enable more cpu governor and TCP congestion algorithm
+- Fix log spam about cpu4 node path
+- Imported `bbr2` and set as default TCP
+- Imported `NTFS3` drivers
+- Imported `ssg` scheduler from G998USQU5CVDB
+- Included firmware
+- Many optimization to kernel for better bb and smoother system
+- Merge latest android-4.19-stable (4.19.315) into kernel
+- Rebranded kernel to `yuragi`
+- Switch to pixel `power-libperfmgr`
+- Switch to common camera shim
+- Update KernelSU to v1.0
+- Update `mi_thermald` blobs from munch
+- Use ARM64 v8 ASM to accelerate `lz4` decompression
+
 ## 28-May-2024
 
 - Fixed display colour profile not working
@@ -208,7 +252,7 @@
 - Import QCOM audio effects
 - Import userdata tuning from oriole
 - KernelSU: update to v0.9.3
-- Merge tag 'LA.UM.9.12.r1-18300-SMxx50.QSSI14.0' into audio-kernel display-drivers `msm-4.19`, `qcacld-3.0`, `qca-wifi-host-cmn`, `video-driver`
+- Merge tag 'LA.UM.9.12.r1-18300-SMxx50.QSSI14.0' into `audio-kernel`, `display-drivers`, `msm-4.19`, `qcacld-3.0`, `qca-wifi-host-cmn`, `video-driver`
 - Misc improvements to battery backup and WiFi configs
 - Offload WM shell to another thread
 - Remove leftover debug function in qcacmn
