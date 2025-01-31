@@ -1,3 +1,6 @@
+# 31-Jan-2025
+- Initial Matrixx A15 release
+
 # 21-Nov-2024
 - Upstreamed to latest 10.9.1 Matrixx sources
 - Upstreamed to latest n0kernel sources
