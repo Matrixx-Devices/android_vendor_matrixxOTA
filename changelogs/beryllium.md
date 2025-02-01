@@ -1,3 +1,7 @@
+# Changelog 01 February 2025
+- Initial Matrixx A15 release
+- If Device is not certified: use pifs or modules
+
 # Changelog 15 December 2024
 - Update to v10.10.0
 - Remove quotes in TARGET_RECOVERY_PIXEL_FORMAT
