@@ -1,3 +1,24 @@
+# Matrixx v-11.1.0 Changelog
+- Initial Matrixx based on A15
+- Added Pif json support 
+- Added per app game spoof json support 
+- redesign Settings Dahsboard UI and Matrixx Settings Dashboard UI 
+- Enable circle to search in Matrixx Launcher & Pixel launcher 
+- Add option to switch between Native Freeform and LMO Freeform 
+- Added ignore windows Secure Flag
+- Added hide Screen Capture status 
+- Bring back notification options in game space 
+- Added Toggle for transperent notification style 
+- Added Compact QS media player 
+- Added compact Headsup Notification 
+- Better landscape QS toggle 
+- Allow QS pannel styles to be applied on A11QS 
+- Bring in Poppins, Google sans new and Sanserif pro font
+- Added Toggle for haptic feedback on volume panel and QS tile 
+- Bring in new Matrixx logo on aboutphone
+- Redesign recent button for matrixx launcher
+- bring in new Bootnaimation
+
 # Matrixx v-10.10.0 Changelog
 - Merged December 2024 security patch
 - Added proper toggle for smartspace
