@@ -4,7 +4,7 @@
         "maintainer": "",
         "support_group":"",
         "oem": "Xiaomi,",
-        "device": "garnet,",
+        "device_name": "garnet,",
         "filename": "Matrixx-v11.1.0-Official-garnet-Gapps-20250201.zip",
         "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/garnet/Matrixx-v11.1.0-Official-garnet-Gapps-20250201.zip/download",
         "timestamp": 1738410262,
