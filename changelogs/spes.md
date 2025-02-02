@@ -1,2 +1,2 @@
 # 02-Feb-2025
-- Placeholder
+- Initial A15 QPR1 Release
