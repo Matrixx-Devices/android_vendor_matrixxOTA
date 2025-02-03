@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "Lowxorx",
+        "support_group":"https://t.me/matrixx_community",
+        "oem": "Xiaomi",
+        "device": "mondrian",
+        "device_name": "POCO F5 Pro",
+        "filename": "Matrixx-v11.1.0-Official-mondrian-Gapps-20250203.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/mondrian/Matrixx-v11.1.0-Official-mondrian-Gapps-20250203.zip/download",
+        "timestamp": 1738604367,
+        "md5": "5b06a7c2c4d243018cf893640b7bf026",
+        "size": 3036251992,
+        "version": "11.1.0"
+    }
+  ]
+}
