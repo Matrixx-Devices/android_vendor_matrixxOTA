@@ -1,0 +1,16 @@
+{
+    "response": [
+      {
+          "maintainer": "Yeab",
+          "oem": "Xiaomi,",
+          "device": "ginkgo",
+          "device_name": "Redmi Note 8/8T",
+          "filename": "Matrixx-v11.1.0-Official-ginkgo-Vanilla-20250203.zip",
+          "download": "  https://sourceforge.net/projects/projectmatrixx/files/Android-15/ginkgo/Matrixx-v11.1.0-Official-ginkgo-Vanilla-20250203.zip/download",
+          "timestamp": 1738588086,
+          "md5": "e30ede9c1f96572a94ff8779a526cd15",
+          "size": 1463715402,
+          "version": "11.1.0"
+      }
+    ]
+  }
