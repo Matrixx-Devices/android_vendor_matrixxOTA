@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "Chaitanya",
+        "support_group":"https://t.me/chaitanyabuilds",
+        "oem": "Xiaomi",
+        "device": "marble",
+        "device_name": "Poco F5/Redmi Note 12 Turbo",
+        "filename": "Matrixx-v11.1.0-Official-marble-Gapps-20250206.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/marble/Matrixx-v11.1.0-Official-marble-Gapps-20250206.zip/download",
+        "timestamp": 1738828108,
+        "md5": "8f4d32df456b41cdd71be59a64e8b9a4",
+        "size": 2884485652,
+        "version": "11.1.0"
+    }
+  ]
+}
