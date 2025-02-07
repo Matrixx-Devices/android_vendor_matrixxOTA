@@ -1,0 +1,16 @@
+{
+    "response": [
+      {
+          "maintainer": "CuriousNom",
+          "oem": "Xiaomi,",
+          "device": "pipa",
+          "device_name": "Xiaomi Pad 6",
+          "filename": "Matrixx-v11.1.0-Official-pipa-Vanilla-20250207.zip",
+          "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/pipa/Matrixx-v11.1.0-Official-pipa-Vanilla-20250207.zip/download",
+          "timestamp": 1738588086,
+          "md5": "e735caf61ccf4d22a7617819aa414029",
+          "size": 1304324976,
+          "version": "11.1.0"
+      }
+    ]
+  }
