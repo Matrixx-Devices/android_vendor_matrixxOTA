@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "αиѕн",
+        "support_group":"https://t.me/AnshBuilds",
+        "oem": "realme",
+        "device": "salaa",
+        "device_name": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
+        "filename": "Matrixx-v11.1.0-Official-salaa-Gapps-20250206.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/salaa/Matrixx-v11.1.0-Official-salaa-Gapps-20250206.zip/download",
+        "timestamp": 1738904340,
+        "md5": "31c2e3e4f68295a5d9c8299fab2fda67",
+        "size": 2378921171,
+        "version": "11.1.0"
+    }
+  ]
+}
