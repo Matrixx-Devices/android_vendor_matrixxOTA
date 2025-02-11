@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "@darkphnx | @Roxor007",
+        "maintainer": ["darkphnx", "Roxor007"],
         "support_group": "https://t.me/drkphnxsp",
         "oem": "Xiaomi",
         "device": "alioth",
         "device_name": "Poco F3/Redmi K40/Mi 11x",
-        "filename": "Matrixx-v10.9.1-Official-alioth-Gapps-20241121.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/alioth/Matrixx-v10.9.1-Official-alioth-Gapps-20241121.zip/download",
-        "timestamp": 1732182534,
-        "md5": "47fe2b6ea9e88fa1319740262e02e179",
-        "size": 1783058175,
-        "version": "v10.9.1"
+        "filename": "Matrixx-v11.2.0-Official-alioth-Gapps-20250211201953.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/alioth/Matrixx-v11.2.0-Official-alioth-Gapps-20250211201953.zip/download",
+        "timestamp": 1739285049,
+        "md5": "cc44f4d78b38cf40decbde7bca996927",
+        "size": 2402965644,
+        "version": "11.2.0"
     }
   ]
 }
