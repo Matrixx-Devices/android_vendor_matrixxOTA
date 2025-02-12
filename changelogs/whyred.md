@@ -1,3 +1,8 @@
+# 12-Feb-2025
+- Synced with latest source
+- Fixed mic echo
+- Switched to erofs for gapps build
+
 # 03-Feb-2025
 - Initial release
 - Synced with latest source
