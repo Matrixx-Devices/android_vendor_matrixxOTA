@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "sky",
         "device_name": "Redmi 12 5G/Redmi 12R/POCO M6 Pro 5G",
-        "filename": "Matrixx-v11.1.0-Official-sky-Gapps-20250206.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/sky/Matrixx-v11.1.0-Official-sky-Gapps-20250206.zip/download",
-        "timestamp": 1738870960,
-        "md5": "7a062ce3d7480badb262c97d09fdca08",
-        "size": 2040048872,
-        "version": "11.1.0"
+        "filename": "Matrixx-v11.2.0-Official-sky-Gapps-202502161106.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/sky/Matrixx-v11.2.0-Official-sky-Gapps-202502161106.zip/download",
+        "timestamp": 1739693033,
+        "md5": "6f1a948b95a18b953f6f5f6cdfa3a9de",
+        "size": 2040901651,
+        "version": "11.2.0"
     }
   ]
 }
