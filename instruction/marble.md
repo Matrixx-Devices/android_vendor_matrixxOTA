@@ -2,7 +2,7 @@
 **Before start flashing.....**
 
 - Always have backup of your internal storage
-- Use TWRP recovery meant for Android 14. Check the note [**#recovery**](https://t.me/chaitanyabuilds)
+- Use TWRP recovery meant for Android 15. Check the note [**#recovery**](https://t.me/chaitanyabuilds)
 - To retain TWRP recovery after rom flash, don't forget to tick the option "Automatically Reflash TWRP after flashing a rom" in recovery. Else TWRP will be replaced by recovery from rom
 - For Kernel SU, check note [#ksu](https://t.me/chaitanyabuilds)
 - For vanilla variant, if u need gapps, [**Nikgapps is Recommended**](https://sourceforge.net/projects/nikgapps/files/Releases/Android-15/)
