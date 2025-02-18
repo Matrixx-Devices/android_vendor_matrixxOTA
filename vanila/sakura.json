@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "obito_svha",
+        "support_group":"https://t.me/roger_builds",
+        "oem": "Xiaomi",
+        "device": "sakura",
+        "device_name": "Redmi 6 Pro",
+        "filename": "Matrixx-v11.2.0-Official-sakura-Vanilla-202502121907.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/sakura/Matrixx-v11.2.0-Official-sakura-Vanilla-202502121907.zip/download",
+        "timestamp": 1739387054,
+        "md5": "64a0476f19796906ad70307a401ac240",
+        "size": 1135697858,
+        "version": "11.2.0"
+    }
+  ]
+}
