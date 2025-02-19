@@ -1,0 +1,18 @@
+Device: Xiaomi 11T Pro (vili)
+Recommended Recovery: https://sourceforge.net/projects/crdroid/files/vili/custom-recovery/
+
+Flashing Instructions:
+
+Recovery Build - with custom recovery
+
+• Boot Into Custom Recovery
+• Two Steps Use anyone
+[I] Wipe ( Format Data ) Type yes { Recommended for otg /adb sideload users}
+or 
+[II] Wipe { Recommended if you kept rom on internal storage}
+({i}✓Dalvic/ART Cache, 
+{ii}✓Metadata, {iii}✓Data)
+• Flash It Via OrangeFox Or adb sideload .zip 
+• Format data
+• Go to Menu > More > Flash current OrangeFox
+• Reboot System
