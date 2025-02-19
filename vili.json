@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "swiitchOFF",
+        "support_group":"https://t.me/swiitchOFF_chat",
+        "oem": "Xiaomi",
+        "device": "vili",
+        "device_name": "Xiaomi 11T Pro",
+        "filename": "Matrixx-v11.2.0-Official-vili-Gapps-202502190257.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/vili/Matrixx-v11.2.0-Official-vili-Gapps-202502190257.zip/download",
+        "timestamp": 1739933616,
+        "md5": "3a151cd2bbd0d0449c83556311260b97",
+        "size": 2653522390,
+        "version": "11.2.0"
+    }
+  ]
+}
