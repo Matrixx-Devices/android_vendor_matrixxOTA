@@ -2,15 +2,16 @@
   "response": [
     {
         "maintainer": "NotDheeraj06",
+        "support_group":"https://t.me/NotDheeraj06_Builds",
         "oem": "Xiaomi",
         "device": "beryllium",
         "device_name": "POCO F1",
-        "filename": "Matrixx-v10.10.0-Official-beryllium-Gapps-20241215.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/beryllium/Matrixx-v10.10.0-Official-beryllium-Gapps-20241215.zip/download",
-        "timestamp": 1734243272,
-        "md5": "9bfed26a8daa0f056d4ba00fe9a5e89d",
-        "size": 1749367403,
-        "version": "v10.10.0"
+        "filename": "Matrixx-v11.2.0-Official-beryllium-Gapps-202502191524.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/beryllium/Matrixx-v11.2.0-Official-beryllium-Gapps-202502191524.zip/download",
+        "timestamp": 1739978661,
+        "md5": "686dd4209102a7cbe53cc7082fe4a8cb",
+        "size": 2225182852,
+        "version": "11.2.0"
     }
   ]
 }
